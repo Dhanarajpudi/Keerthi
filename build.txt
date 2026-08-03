@@ -1,0 +1,5 @@
+Hello Jenkins!
+Project Name: CampusMart
+Mon Aug  3 14:11:42 IST 2026
+dhanaabd
+/Users/dhanaabd/.jenkins/workspace/HelloWorld
